@@ -59,7 +59,6 @@ let toggleMobileNav = () => {
                         <h2 class="font-theme-heading font-medium text-xl text-white">Juntos Pelo Caio</h2>
                         <img src="/images/heart-white.png" alt="logo" class="w-10 ml-3" />
                     </div>
-                    <img src="/images/logo-bookmark-white.svg" alt="Logo">
                     <button @click="toggleMobileNav()" type="button" class="focus:outline-none">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                             class="bi bi-x text-white" viewBox="0 0 16 16">
