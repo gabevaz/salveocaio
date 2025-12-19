@@ -18,7 +18,7 @@
                     <br />Com todo o nosso coração,
                     <br />Thiago e Rose
                 </h4>
-                <img src="images/caio3.jpeg" alt="family" class="rounded-xl" />
+                <img src="/images/caio3.jpeg" alt="family" class="rounded-xl" />
             </section>
         </div>
     </div>

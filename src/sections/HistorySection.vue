@@ -7,7 +7,7 @@
         <section class="py-16">
             <div class="mx-auto">
                 <div class="md:flex">
-                    <img src="images/caiopais.jpeg" alt="pais" class="md:w-1/3 rounded-xl" />
+                    <img src="/images/caiopais.jpeg" alt="pais" class="md:w-1/3 rounded-xl" />
                     <div class="space-y-4 text-justify md:ml-8 mt-8 md:mt-4">
                         <h2 class="text-3xl md:text-4xl font-semibold font-theme-heading mb-10">A história do Caio
                         </h2>

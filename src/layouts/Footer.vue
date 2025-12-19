@@ -9,7 +9,7 @@
                     <div class="max-md:mx-auto max-md:mb-8">
                         <a href="/" class="flex items-baseline">
                             <h2 class="font-theme-heading font-medium text-xl text-white">Juntos Pelo Caio</h2>
-                            <img src="images/heart-white.png" alt="logo" class="w-10 ml-3" />
+                            <img src="/images/heart-white.png" alt="logo" class="w-10 ml-3" />
                         </a>
                     </div>
                     <ul

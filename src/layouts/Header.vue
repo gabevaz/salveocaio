@@ -15,7 +15,7 @@ let toggleMobileNav = () => {
             <div>
                 <a href="/" class="flex items-baseline">
                     <h2 class="font-theme-heading font-medium text-2xl md:text-3xl">Juntos Pelo Caio</h2>
-                    <img src="images/heart.png" alt="logo" class="w-10 ml-3" />
+                    <img src="/images/heart.png" alt="logo" class="w-10 ml-3" />
                 </a>
             </div>
 
@@ -55,6 +55,10 @@ let toggleMobileNav = () => {
             <div
                 class="absolute px-5 py-12 block z-30 top-0 left-0 w-full h-full bg-gradient-to-b from-theme-dark-blue via-theme-dark-blue-tp to-theme-dark-blue">
                 <div class="flex justify-between items-center">
+                    <div class="flex items-baseline">
+                        <h2 class="font-theme-heading font-medium text-xl text-white">Juntos Pelo Caio</h2>
+                        <img src="/images/heart-white.png" alt="logo" class="w-10 ml-3" />
+                    </div>
                     <img src="/images/logo-bookmark-white.svg" alt="Logo">
                     <button @click="toggleMobileNav()" type="button" class="focus:outline-none">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
