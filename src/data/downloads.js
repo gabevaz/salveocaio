@@ -1,24 +1,31 @@
 const downloads = [
     {
         id: 1,
-        icon: "images/logo-chrome.svg",
-        title: "Add to Chrome",
-        subTitle: "Minimum version 62",
-        link: "#",
+        icon: "images/pix.png",
+        title: "PIX",
+        linkTitle: "salveocaio@gmail.com",
+        link: "isEmail",
     },
     {
         id: 2,
-        icon: "images/logo-firefox.svg",
-        title: "Add to Firefox",
-        subTitle: "Minimum version 55",
-        link: "#",
+        icon: "images/images.jpeg",
+        title: "Vaquinha Razões para Acreditar:",
+        linkTitle: "Link da Vaquinha",
+        link: "https://vaquinhadorazoes.com/vaquinha/1765837515503x520401580174868500",
     },
     {
         id: 3,
-        icon: "images/logo-opera.svg",
-        title: "Add to Opera",
-        subTitle: "Minimum version 46",
-        link: "#",
+        icon: "images/rifa.png",
+        title: "Rifa - Kit Compelto o Boticário:",
+        linkTitle: "Link da Rifa",
+        link: "https://apprf.com/rifa-solidaria-salve-o-caio",
+    },
+    {
+        id: 4,
+        icon: "images/fundme.png",
+        title: "Doação Internacional:",
+        linkTitle: "Link para Doação",
+        link: "https://www.gofundme.com/f/save-caio",
     },
 ];
 

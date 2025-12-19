@@ -1,19 +1,28 @@
 <script setup>
 import HeroSection from "../sections/HeroSection.vue";
+import HistorySection from "../sections/HistorySection.vue";
+import HopeSection from "../sections/HopeSection.vue";
 import FeatureSection from "../sections/FeatureSection.vue";
 import DownloadSection from "../sections/DownloadSection.vue";
-import FaqSection from "../sections/FaqSection.vue";
-import SubscribeSection from "../sections/SubscribeSection.vue";
+import ContactSection from "../sections/ContactSection.vue";
+import DonationSection from "../sections/DonationSection.vue";
+import GallerySection from "../sections/GallerySection.vue";
 </script>
 
 <template>
     <HeroSection />
 
-    <FeatureSection />
+    <HistorySection />
+
+    <HopeSection />
 
     <DownloadSection />
 
-    <FaqSection />
+    <FeatureSection />
 
-    <SubscribeSection />
+    <DonationSection />
+
+    <ContactSection />
+
+    <GallerySection />
 </template>
