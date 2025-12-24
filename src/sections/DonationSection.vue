@@ -30,6 +30,24 @@
                     </p>
                 </div>
 
+                <div class="mt-4">
+                    <h2 class="text-3xl md:text-4xl font-semibold font-theme-heading mb-10 text-center">
+                        Laudo
+                    </h2>
+                    <p class="text-center text-sm">Clique nas imagens para ver com mais detalhes*</p>
+                    <div class="flex gap-8">
+                        <a href="/pdfs/exoma.pdf" target="_blank">
+                            <img src="/images/exoma-images-0.jpg" class="rounded-xl" />
+                        </a>
+                        <a href="/pdfs/exoma.pdf" target="_blank">
+                            <img src="/images/exoma-images-1.jpg" class="rounded-xl" />
+                        </a>
+                        <a href="/pdfs/exoma.pdf" target="_blank">
+                            <img src="/images/exoma-images-2.jpg" class="rounded-xl" />
+                        </a>
+                    </div>
+                </div>
+
             </div>
 
         </section>
