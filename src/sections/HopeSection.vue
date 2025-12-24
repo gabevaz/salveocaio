@@ -22,7 +22,8 @@
                         participar desse tratamento experimental.
                     </p>
                     <p>No entanto, para que o Caio possa receber essa terapia, precisamos arcar com os custos
-                        hospitalares, que chegam a aproximadamente <strong>R$ 2.000.000.</strong></p>
+                        hospitalares, que chegam a aproximadamente <strong>R$ 2.000.000 (dois milhões de reais).
+                        </strong></p>
                     <p>Uma corrida contra o tempo <br />
                         A CLN7 avança todos os dias. <br />
                         Cada semana importa. Cada mês importa. Cada dia importa.</p>
