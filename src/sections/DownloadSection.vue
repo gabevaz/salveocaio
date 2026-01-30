@@ -25,6 +25,7 @@ function copyEmail() {
                     <br />E, se não puder doar, compartilhar essa história também salva vidas.
                 </p>
             </div>
+
             <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mt-12">
                 <div v-for="(download, index) in downloads" :key="download.id" class="shadow-lg rounded-lg">
                     <div class="flex justify-center mt-12 aspect-square">
@@ -49,6 +50,11 @@ function copyEmail() {
                         </a>
                     </div>
                 </div>
+            </div>
+
+            <div class="mt-20">
+                <h3 class="text-2xl md:text-3xl font-theme-heading font-medium text-center mb-4">Resultado da última Rifa:</h3>
+                <img class="mx-auto" src="/images/resultado-rifa-01.jpg" alt="resultado-rifa-01.jpg">
             </div>
         </section>
     </div>
