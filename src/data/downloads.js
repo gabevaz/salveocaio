@@ -15,10 +15,10 @@ const downloads = [
     },
     {
         id: 3,
-        icon: "/images/rifa.png",
-        title: "Rifa - Kit Compelto o Boticário:",
+        icon: "/images/iphone-17-pro-max.jpg",
+        title: "Rifa Solidária Salve o Caio",
         linkTitle: "Link da Rifa",
-        link: "https://apprf.com/rifa-solidaria-salve-o-caio",
+        link: "https://apprf.com/rifa-solidaria-salve-o-caio-1",
     },
     {
         id: 4,
